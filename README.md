@@ -1,4 +1,7 @@
-# test coverage for  [sass-lint (v1.10.2)](https://github.com/sasstools/sass-lint)  [![npm package](https://img.shields.io/npm/v/npmtest-sass-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sass-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sass-lint.svg)](https://travis-ci.org/npmtest/node-npmtest-sass-lint)
+# npmtest-sass-lint
+
+#### basic test coverage for  [sass-lint (v1.10.2)](https://github.com/sasstools/sass-lint)  [![npm package](https://img.shields.io/npm/v/npmtest-sass-lint.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sass-lint) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sass-lint.svg)](https://travis-ci.org/npmtest/node-npmtest-sass-lint)
+
 #### All Node Sass linter!
 
 [![NPM](https://nodei.co/npm/sass-lint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sass-lint)
